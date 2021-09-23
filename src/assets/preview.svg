@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="940" height="1329" viewBox="0 0 940 1329" xml:space="preserve">
+<desc>Created with Fabric.js 4.5.1</desc>
+<defs>
+</defs>
+<g transform="matrix(1 0 0 1 720.5 519.87)" style=""  >
+		<text xml:space="preserve" font-family="Arial" font-size="12" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-75" y="-19.82" >Ticketkäufer: %kaeufer%</tspan><tspan x="-75" y="-4.1" >Preis: %preis% (inkl Mwst.)</tspan><tspan x="-75" y="11.63" >Kaufdatum: %kaufdatum%</tspan><tspan x="-75" y="27.36" >Tickettyp: %tickettyp%</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 159.5 430.54)" style=""  >
+		<text xml:space="preserve" font-family="Arial" font-size="16" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-107" y="5.03" >am %datum% ab %zeit% Uhr</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 95.5 407.63)" style=""  >
+		<text xml:space="preserve" font-family="Arial" font-size="25" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-43" y="7.85" >%titel%</tspan></text>
+</g>
+<g transform="matrix(0.68 0 0 0.7 765.34 241.85)"  >
+	<image style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  xlink:href="https://cdn.tiodev.de/assets/admin/img/ticketdesigneditor/barcode1.gif" x="-175.5" y="-60.5" width="351" height="121"></image>
+</g>
+<g transform="matrix(0.68 0 0 0.7 172.34 706.85)"  >
+	<image style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  xlink:href="https://cdn.tiodev.de/assets/admin/img/ticketdesigneditor/barcode1.gif" x="-175.5" y="-60.5" width="351" height="121"></image>
+</g>
+<g transform="matrix(1 0 0 1 78.5 495.85)" style=""  >
+		<text xml:space="preserve" font-family="Arial" font-size="13" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-25" y="4.08" >Adresse</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 110 523.11)" style=""  >
+		<text xml:space="preserve" font-family="Arial" font-size="17" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-56.5" y="5.34" >%adresse_tt%</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 446 812.7)" style=""  >
+		<text xml:space="preserve" font-family="Arial" font-size="10" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-391.5" y="-3.41" style="white-space: pre; ">Beim Kauf des Tickets hast Du den Allgemeinen Geschäftsbedingungen des Veranstalters zugestimmt. Ticketio.de übernimmt keine Haftung für Schäden am Ticket, die der </tspan><tspan x="-391.5" y="9.7" >Käufer zu verantworten hat. Für weitere Fragen bitte Kontakt aufnehmen mit support@ticketio.de.</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 126.5 652.15)" style=""  >
+		<text xml:space="preserve" font-family="Arial" font-size="10" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-74" y="3.14" >Bitte den Barcode nicht knicken!</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 103 466.67)" style=""  >
+		<text xml:space="preserve" font-family="Arial" font-size="18" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-50.5" y="5.65" >%tickettyp%</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 200 620.59)" style=""  >
+		<text xml:space="preserve" font-family="Arial" font-size="14" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-147.5" y="-4.78" >Barcodes sind exklusiv. Kopieren ist zwecklos.</tspan><tspan x="-147.5" y="13.57" >Ohne Ticket keinen Zugang zur Veranstaltung.</tspan></text>
+</g>
+<g transform="matrix(0.7 0 0 0.69 577.85 510.34)"  >
+	<image style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  xlink:href="https://cdn.tiodev.de/assets/admin/img/ticketdesigneditor/barcode2.gif" x="-46.5" y="-175.5" width="93" height="351"></image>
+</g>
+<g transform="matrix(1.39 0 0 1.39 218.69 1043.69)"  >
+	<image style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  xlink:href="https://cdn.tiodev.de/assets/admin/img/ticketdesigneditor/qrcode.gif" x="-124.5" y="-124.5" width="245" height="245"></image>
+</g>
+<g transform="matrix(1 0 0 1 625.5 31.23)" style=""  >
+		<text xml:space="preserve" font-family="Arial" font-size="19" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-55" y="5.97" style="white-space: pre; "> sfesefsefsef</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 112.5 118.41)" style=""  >
+		<text xml:space="preserve" font-family="Arial" font-size="14" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-22" y="4.4" style="white-space: pre; "> sefsef</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 339.5 316.76)" style=""  >
+		<text xml:space="preserve" font-family="Arial" font-size="14" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-89" y="-13.95" >Ticketkäufer: %kaeufer%</tspan><tspan x="-89" y="4.4" >Tickettyp: %tickettyp%</tspan><tspan x="-89" y="22.75" >Preis: %preis% (inkl. Mwst.)</tspan></text>
+</g>
+<g transform="matrix(0.32 0 0 0.32 428.16 238.66)"  >
+	<image style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  xlink:href="https://cdn.tiodev.de/companies/V9jxYWiH/ticketdesigns/xOt8qeZi/elements/nmLExwhV.jpg" x="-459" y="-648" width="918" height="1296"></image>
+</g>
+</svg> 
