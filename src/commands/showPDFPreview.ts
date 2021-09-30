@@ -1,11 +1,11 @@
-import { image } from 'html2canvas/dist/types/css/types/image';
 import { translateHyperLink } from "./../util/translateHyperLink";
+import { fabric } from "fabric";
 import { jsPDF } from "jspdf";
-import "svg2pdf.js";
+
 
 export const showPDFPreview = (canvas: any) => {
-  let imgData = new Image(canvas.toDataURL("image/JPEG", 1))
-  imgData.crossOrigin ="anonymous"
+ const imgData =  canvas.toDataURL("image/JPEG");
+ console.log(imgData)
   var pdf =
     canvas.width > canvas.height
       ? new jsPDF({
@@ -15,8 +15,8 @@ export const showPDFPreview = (canvas: any) => {
         })
       : new jsPDF({
           orientation: "p",
-          unit: "pt", // points, pixels won't work properly
-          format: [canvas.width * 0.75, canvas.height * 0.75], // set needed dimensions for any element
+          unit: "mm", // points, pixels won't work properly
+          format: [210, 297], // set needed dimensions for any element
         });
 
   const width = pdf.internal.pageSize.getWidth();
@@ -24,7 +24,7 @@ export const showPDFPreview = (canvas: any) => {
 
   translateHyperLink(pdf, canvas);
   //pdf.textWithLink('MY LINK!', 25, 25, {url: "https://amazon.de"});
-  pdf.addImage(imgData, 0, 0, width, height, "JPEG");
+  pdf.addImage(imgData, 0, 0, width, height,  "JPEG");
   // pdf.save("test.pdf");
   window.open(URL.createObjectURL(pdf.output("blob")));
 };
